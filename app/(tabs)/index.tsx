@@ -50,7 +50,14 @@ export default function HomeScreen() {
           <ThemedText type="defaultSemiBold">app-example</ThemedText>.
         </ThemedText>
       </ThemedView>
+
+            
+      <ThemedText>Hello </ThemedText>
+      <ThemedText>ekfmemffef</ThemedText>
+
+
     </ParallaxScrollView>
+    
   );
 }
 
